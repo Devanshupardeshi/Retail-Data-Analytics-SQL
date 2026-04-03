@@ -1,0 +1,131 @@
+prd_nm,CAT,SUBCAT,total_quantity_sold,total_revenue
+Mountain-200 Black- 46,Bikes,Mountain Bikes,1240,2746908.0
+Mountain-200 Black- 42,Bikes,Mountain Bikes,1228,2726256.0
+Mountain-200 Silver- 38,Bikes,Mountain Bikes,1192,2678788.0
+Mountain-200 Silver- 46,Bikes,Mountain Bikes,1160,2602058.0
+Mountain-200 Black- 38,Bikes,Mountain Bikes,1164,2589708.0
+Mountain-200 Silver- 42,Bikes,Mountain Bikes,1120,2514736.0
+Road-250 Black- 52,Bikes,Road Bikes,638,1468850.0
+Road-250 Red- 58,Bikes,Road Bikes,612,1405332.0
+Road-250 Black- 48,Bikes,Road Bikes,596,1382426.0
+Road-250 Black- 44,Bikes,Road Bikes,542,1256768.0
+Road-250 Black- 58,Bikes,Road Bikes,540,1244052.0
+Road-150 Red- 48,Bikes,Road Bikes,337,1205786.0
+Road-150 Red- 62,Bikes,Road Bikes,336,1202208.0
+Road-150 Red- 52,Bikes,Road Bikes,302,1080556.0
+Road-150 Red- 56,Bikes,Road Bikes,295,1055510.0
+Road-150 Red- 44,Bikes,Road Bikes,281,1005418.0
+Road-550-W Yellow- 42,Bikes,Road Bikes,612,668880.0
+Road-550-W Yellow- 44,Bikes,Road Bikes,574,624400.0
+Road-550-W Yellow- 38,Bikes,Road Bikes,540,587520.0
+Road-550-W Yellow- 40,Bikes,Road Bikes,532,579760.0
+Road-550-W Yellow- 48,Bikes,Road Bikes,522,567360.0
+Touring-1000 Blue- 46,Bikes,Touring Bikes,177,421968.0
+Road-350-W Yellow- 40,Bikes,Road Bikes,246,418446.0
+Touring-1000 Yellow- 46,Bikes,Touring Bikes,172,410048.0
+Road-350-W Yellow- 42,Bikes,Road Bikes,235,399735.0
+Road-250 Red- 48,Bikes,Road Bikes,162,395766.0
+Road-350-W Yellow- 48,Bikes,Road Bikes,232,394632.0
+Touring-1000 Blue- 54,Bikes,Touring Bikes,160,381440.0
+Touring-1000 Yellow- 54,Bikes,Touring Bikes,158,376672.0
+Road-350-W Yellow- 44,Bikes,Road Bikes,216,367416.0
+Touring-1000 Yellow- 50,Bikes,Touring Bikes,151,359984.0
+Touring-1000 Blue- 50,Bikes,Touring Bikes,150,357600.0
+Road-250 Red- 44,Bikes,Road Bikes,144,351792.0
+Touring-1000 Blue- 60,Bikes,Touring Bikes,147,350448.0
+Touring-1000 Yellow- 60,Bikes,Touring Bikes,140,333760.0
+Road-250 Red- 52,Bikes,Road Bikes,133,324919.0
+Sport-100 Helmet- Red,Accessories,Helmets,6690,234150.0
+Sport-100 Helmet- Blue,Accessories,Helmets,6378,223230.0
+Sport-100 Helmet- Black,Accessories,Helmets,6255,218715.0
+Road-750 Black- 52,Bikes,Road Bikes,386,208440.0
+Mountain-100 Black- 44,Bikes,Mountain Bikes,60,202500.0
+Mountain-100 Silver- 38,Bikes,Mountain Bikes,58,197200.0
+Road-750 Black- 48,Bikes,Road Bikes,363,196020.0
+Road-750 Black- 44,Bikes,Road Bikes,360,194400.0
+Mountain-100 Black- 48,Bikes,Mountain Bikes,57,192375.0
+Road-750 Black- 58,Bikes,Road Bikes,334,180360.0
+Mountain-100 Silver- 44,Bikes,Mountain Bikes,49,166600.0
+Mountain-100 Black- 38,Bikes,Mountain Bikes,49,165375.0
+Mountain-100 Black- 42,Bikes,Mountain Bikes,45,151875.0
+Mountain-100 Silver- 42,Bikes,Mountain Bikes,42,142800.0
+Road-650 Black- 52,Bikes,Road Bikes,178,133830.0
+Road-650 Red- 48,Bikes,Road Bikes,176,133440.0
+Touring-2000 Blue- 50,Bikes,Touring Bikes,106,128790.0
+Mountain-100 Silver- 48,Bikes,Mountain Bikes,36,122400.0
+Touring-2000 Blue- 46,Bikes,Touring Bikes,97,117855.0
+Road-650 Black- 58,Bikes,Road Bikes,152,115992.0
+Road-650 Red- 62,Bikes,Road Bikes,150,114762.0
+Road-650 Black- 60,Bikes,Road Bikes,152,114312.0
+Mountain-400-W Silver- 38,Bikes,Mountain Bikes,148,113812.0
+Road-650 Red- 58,Bikes,Road Bikes,148,112692.0
+Road-650 Red- 44,Bikes,Road Bikes,144,109056.0
+Touring-2000 Blue- 54,Bikes,Touring Bikes,88,106920.0
+Mountain-400-W Silver- 46,Bikes,Mountain Bikes,138,106122.0
+Mountain-400-W Silver- 42,Bikes,Mountain Bikes,129,99201.0
+Mountain-400-W Silver- 40,Bikes,Mountain Bikes,128,98432.0
+Touring-2000 Blue- 60,Bikes,Touring Bikes,81,98415.0
+Road-650 Black- 62,Bikes,Road Bikes,130,98094.0
+Road-650 Black- 44,Bikes,Road Bikes,126,95130.0
+Road-650 Red- 52,Bikes,Road Bikes,122,92166.0
+Road-650 Black- 48,Bikes,Road Bikes,120,91104.0
+Road-650 Red- 60,Bikes,Road Bikes,106,80142.0
+Long-Sleeve Logo Jersey- L,Clothing,Jerseys,1359,67800.0
+Long-Sleeve Logo Jersey- M,Clothing,Jerseys,1326,66156.0
+Long-Sleeve Logo Jersey- S,Clothing,Jerseys,1287,64350.0
+Long-Sleeve Logo Jersey- XL,Clothing,Jerseys,1242,61950.0
+AWC Logo Cap,Clothing,Caps,6570,59022.0
+HL Mountain Tire,Accessories,Tires and Tubes,1397,48790.0
+Touring-3000 Blue- 62,Bikes,Touring Bikes,64,47488.0
+Fender Set - Mountain,Accessories,Fenders,2121,46640.0
+Touring-3000 Yellow- 44,Bikes,Touring Bikes,59,43778.0
+Touring-3000 Yellow- 50,Bikes,Touring Bikes,59,43778.0
+Touring-3000 Blue- 58,Bikes,Touring Bikes,57,42294.0
+Touring-3000 Blue- 54,Bikes,Touring Bikes,55,40810.0
+Hydration Pack - 70 oz.,Accessories,Hydration Packs,733,40315.0
+All-Purpose Bike Stand,Accessories,Bike Stands,249,39591.0
+Hitch Rack - 4-Bike,Accessories,Bike Racks,328,39360.0
+Touring-3000 Blue- 44,Bikes,Touring Bikes,53,39326.0
+Touring-3000 Yellow- 62,Bikes,Touring Bikes,50,37100.0
+Touring-3000 Blue- 50,Bikes,Touring Bikes,48,35616.0
+Touring-3000 Yellow- 54,Bikes,Touring Bikes,48,35616.0
+Touring-3000 Yellow- 58,Bikes,Touring Bikes,47,34874.0
+ML Mountain Tire,Accessories,Tires and Tubes,1161,34830.0
+Mountain-500 Black- 44,Bikes,Mountain Bikes,58,31320.0
+Mountain-500 Black- 48,Bikes,Mountain Bikes,56,30240.0
+HL Road Tire,Accessories,Tires and Tubes,858,28314.0
+Mountain-500 Silver- 48,Bikes,Mountain Bikes,50,28250.0
+Mountain-500 Silver- 52,Bikes,Mountain Bikes,48,27120.0
+Touring Tire,Accessories,Tires and Tubes,935,27115.0
+Mountain-500 Black- 42,Bikes,Mountain Bikes,49,26460.0
+Mountain-500 Black- 40,Bikes,Mountain Bikes,48,25920.0
+Mountain-500 Silver- 40,Bikes,Mountain Bikes,45,25425.0
+Mountain-500 Silver- 42,Bikes,Mountain Bikes,45,25425.0
+Women's Mountain Shorts- L,Clothing,Shorts,363,25410.0
+Women's Mountain Shorts- M,Clothing,Shorts,352,24640.0
+Half-Finger Gloves- M,Clothing,Gloves,998,23970.0
+Half-Finger Gloves- S,Clothing,Gloves,976,23424.0
+ML Road Tire,Accessories,Tires and Tubes,926,23150.0
+Mountain-500 Black- 52,Bikes,Mountain Bikes,41,22140.0
+Short-Sleeve Classic Jersey- XL,Clothing,Jerseys,409,22086.0
+Mountain-500 Silver- 44,Bikes,Mountain Bikes,39,22035.0
+Short-Sleeve Classic Jersey- M,Clothing,Jerseys,407,21978.0
+LL Road Tire,Accessories,Tires and Tubes,1044,21924.0
+Short-Sleeve Classic Jersey- S,Clothing,Jerseys,406,21924.0
+LL Mountain Tire,Accessories,Tires and Tubes,864,21550.0
+Women's Mountain Shorts- S,Clothing,Shorts,304,21280.0
+Water Bottle - 30 oz.,Accessories,Bottles and Cages,4249,21245.0
+Half-Finger Gloves- L,Clothing,Gloves,886,21216.0
+Mountain Bottle Cage,Accessories,Bottles and Cages,2034,20320.0
+Short-Sleeve Classic Jersey- L,Clothing,Jerseys,374,20088.0
+Mountain Tire Tube,Accessories,Tires and Tubes,3096,15475.0
+Road Bottle Cage,Accessories,Bottles and Cages,1712,15407.0
+Classic Vest- M,Clothing,Vests,199,12736.0
+Classic Vest- L,Clothing,Vests,195,12480.0
+Classic Vest- S,Clothing,Vests,171,10752.0
+Road Tire Tube,Accessories,Tires and Tubes,2376,9500.0
+Touring Tire Tube,Accessories,Tires and Tubes,1488,7440.0
+Bike Wash - Dissolver,Accessories,Cleaners,909,7264.0
+Patch Kit/8 Patches,Accessories,Tires and Tubes,3191,6418.0
+Racing Socks- M,Clothing,Socks,298,2682.0
+Racing Socks- L,Clothing,Socks,270,2430.0
